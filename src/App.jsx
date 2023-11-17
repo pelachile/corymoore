@@ -3,7 +3,8 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Cory Moore November 17, 2023</h1>
+      <h1>Cory Moore</h1>
+      <small>November 17, 2023</small>
     </>
   );
 }
